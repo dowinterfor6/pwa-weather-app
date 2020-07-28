@@ -1,3 +1,5 @@
+Deployed site: https://nostalgic-pike-efe229.netlify.app/
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 https://www.youtube.com/watch?v=IaJqMcOMuDM
